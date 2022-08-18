@@ -1,0 +1,28 @@
+{
+  "name": "digibot",
+  "version": "1.0.0",
+  "description": "Trial telegram bot for some sort issue",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/egy2015/digibot.git"
+  },
+  "keywords": [
+    "digibot;",
+    "telegram-bot;",
+    "bot-telegram;"
+  ],
+  "author": "Egy2015",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/egy2015/digibot/issues"
+  },
+  "homepage": "https://github.com/egy2015/digibot#readme",
+  "dependencies": {
+    "dotenv": "^16.0.1",
+    "telegraf": "^4.8.6"
+  }
+}
