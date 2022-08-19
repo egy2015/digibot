@@ -15,7 +15,7 @@ Bot Telegram as Helper
 ```/newbot```
     **father will ask several questions  to you, just respond to each question as a normal people did read it carefully and follow if he give you an instruction**
 
-**I think its only two steps, there will be a long text from father and you must find ```HTTP API:54321312:som3text_youshould_save``` copy it somewhere save, i mean it!, cause that's what we need, a ```TOKEN```**
+**I think its only two steps, there will be a long text from father and you must find after *HTTP API: ```54321312:som3text_youshould_save``` copy it somewhere save, i mean it!, cause that's what we need, a ```TOKEN```**
 
 ### Clone time
     google.com/search?howtoclonefromgithoob
